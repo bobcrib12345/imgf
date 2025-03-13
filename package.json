@@ -1,7 +1,7 @@
 {
-  "name": "imagefap-dl",
+  "name": "imgf",
   "version": "2.1.0",
-  "description": "ImageFap gallery downloader",
+  "description": "x",
   "type": "module",
   "exports": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -12,12 +12,12 @@
     "doc": "npx typedoc"
   },
   "bin": {
-    "imagefap-dl": "./bin/imagefap-dl.js"
+    "imgf": "./bin/imagefap-dl.js"
   },
-  "author": "Patrick Kan <patrickkfkan@gmail.com> (https://github.com/patrickkfkan)",
+  "author": "x",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrickkfkan/imagefap-dl.git"
+    "url": "https://github.com/bobcrib12345/imgf.git"
   },
   "license": "MIT",
   "directories": {
